@@ -4,11 +4,11 @@ This Doctor Appointment Booking System is a simple web application implemented u
 
 ### Doctor Cards
 
-![Doctor Cards](../screenshots/Doctors.png)
+![Doctors](https://github.com/GhazalBasalighe/Doctors-Appointment-Reservation/assets/127536254/480fd36b-2017-4887-a3b5-f76cb91e28ad)
 
 ### Booking Appointment
 
-![Booking Appointment](./screenshots/Book Appointment.png)
+![Book Appointment](https://github.com/GhazalBasalighe/Doctors-Appointment-Reservation/assets/127536254/f32dbe9c-2b62-40e7-a41c-2e8dff282185)
 
 ## Features
 
