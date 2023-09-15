@@ -1,0 +1,124 @@
+{
+  "doctor": [
+    {
+      "id": 1,
+      "name": "Dr. E Hawke",
+      "specialty": "General Practitioner",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700487000000",
+        "1700575200000",
+        "1700578800000"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. J Cameron",
+      "specialty": "Pediatrician",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700487000000",
+        "1700575200000"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dr. B Smith",
+      "specialty": "Oncologist",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700487000000",
+        "1700575200000",
+        "1700578800000"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dr. R Scott",
+      "specialty": "Cardiologist",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700487000000",
+        "1700575200000",
+        "1700578800000"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dr. G Pierce",
+      "specialty": "Gynecologist",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700487000000",
+        "1700575200000",
+        "1700578800000"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Dr. M Kennedy",
+      "specialty": "Neurologist",
+      "phone": "0811328786",
+      "date": [
+        "1700486100000",
+        "1700575200000",
+        "1700578800000"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "dsvsvs",
+      "name": "scssd",
+      "doctor": "Dr. M Kennedy",
+      "time": "Pick a Date",
+      "details": "svdvs",
+      "id": 1
+    },
+    {
+      "email": "",
+      "name": "",
+      "doctor": "Dr. M Kennedy",
+      "time": "Pick a Date",
+      "details": "",
+      "id": 2
+    },
+    {
+      "email": "",
+      "name": "",
+      "doctor": "Dr. M Kennedy",
+      "time": "Pick a Date",
+      "details": "",
+      "id": 3
+    },
+    {
+      "email": "",
+      "name": "",
+      "doctor": "Dr. E Hawke",
+      "time": "Pick a Date",
+      "details": "",
+      "id": 4
+    },
+    {
+      "email": "",
+      "name": "",
+      "doctor": "Dr. B Smith",
+      "time": "Pick a Date",
+      "details": "",
+      "id": 5
+    },
+    {
+      "email": "",
+      "name": "",
+      "doctor": "Dr. B Smith",
+      "time": "Pick a Date",
+      "details": "",
+      "id": 6
+    }
+  ]
+}
